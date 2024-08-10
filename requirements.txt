@@ -1,5 +1,5 @@
-torch>=2, <2.4
-torchaudio>=2, <2.4
+torch==2.1.0
+torchaudio==2.1.0
 transformers
 pandas
 setuptools>=65
