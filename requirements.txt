@@ -1,7 +1,6 @@
-torch>=2
-torchaudio>=2
+torch==2.0.0
+torchaudio==2.0.1
 transformers
 pandas
-setuptools>=65
+setuptools>=65, <70.0.0
 nltk
-pyannote.audio==3.1.1
